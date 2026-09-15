@@ -6,11 +6,12 @@
 
 - [x] 在本机初始化 Git 仓库（`git init -b main`）
 - [x] 创建 `README.md` 和 `.gitignore`
-- [ ] 配置提交身份（`user.name` / `user.email`）
-- [ ] 完成第一次提交（`git commit`）
-- [ ] 注册 GitHub 账号
+- [x] 配置提交身份（`user.name` / `user.email`）
+- [x] 完成第一次提交（`git commit` → `f79bd1d`）
+- [x] 注册 GitHub 账号（`Zfybrbqpv9-alt`）
+- [x] 生成 SSH 密钥并关联远程仓库
 - [ ] 在 GitHub 上新建远程仓库 `my-first-repo`
-- [ ] 关联远程仓库并推送（`git remote add` + `git push`）
+- [ ] 把公钥添加到 GitHub，然后推送（`git push -u origin main`）
 
 ## 常用命令速查
 
